@@ -36,4 +36,4 @@ https://user-images.githubusercontent.com/60798398/176746437-073dfa8a-ac73-4d3f-
 
 The video above shows an example of our video virtual try-on solution.   
 
-## Read our Video Virtual Try-On solution [here]()!
+## Read our Video Virtual Try-On solution [here](https://mmiguez1.github.io/video-virtual-try-on/)!
