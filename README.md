@@ -30,14 +30,10 @@ Overall, our project had some unexpected turns throughout the year which enabled
             
 Regarding the model, we would work on improving the run time and the model in general. Because it takes a substantial amount of time to run the model frame by frame, we would look into developing a parallel computing solution that could decrease the program’s runtime. Moreover, we would utilize 3-dimensional instead of 2-dimensional key points, so we could improve on the skin preservation component to recognize when body parts are not being displayed and deformed. We also would require a face detection implementation to help identify different angles given a 360-degree input. The model currently does not function well with hair in the way and various obstructions. 
               
-               
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE-ckLU8CQ&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE-ckLU8CQ&#x2F;watch?utm_content=DAE-ckLU8CQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SSE EXPO DEMO</a>
-       
+            
+
+https://user-images.githubusercontent.com/60798398/176746437-073dfa8a-ac73-4d3f-a33f-95135fbbe334.mp4
+
+The video above shows an example of our video virtual try-on solution.   
+
 ### View our Video Virtual Try-On solution [here]()!
