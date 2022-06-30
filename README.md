@@ -3,7 +3,8 @@
 ## Faculty Mentor: Dr. Allan Ding
 
 Video Virtual Try-On is our two-semester-long, senior year final capstone project. This project implements a virtual try-on solution that takes in a user's video input, runs the ACGPN model on the extracted video frames, and outputs a virtual try-on video that mimics a real-time virtual clothing try-on. 
-
+      
+### Read our Video Virtual Try-On solution [here](https://mmiguez1.github.io/video-virtual-try-on/)!
         
 **ACGPN Cited:**
 
@@ -36,4 +37,3 @@ https://user-images.githubusercontent.com/60798398/176746437-073dfa8a-ac73-4d3f-
 
 The video above shows an example of our video virtual try-on solution.   
 
-## Read our Video Virtual Try-On solution [here](https://mmiguez1.github.io/video-virtual-try-on/)!
