@@ -1,7 +1,7 @@
-# **Video Virtual Try-On**
+# **Video Virtual Try-On Capstone **
 ## Maygan Miguez (*TU '22*) and Jaclyn Wilson (*TU '22*)
 
-Video Virtual Try-On is our senior year final capstone project. This project implements a virtual try-on solution that takes in a user's video input, runs the ACGPN model on the extracted video frames, and outputs a virtual try-on video that mimics a real-time virtual clothing try-on. 
+Video Virtual Try-On is our two-semester-long, senior year final capstone project. This project implements a virtual try-on solution that takes in a user's video input, runs the ACGPN model on the extracted video frames, and outputs a virtual try-on video that mimics a real-time virtual clothing try-on. 
 
         
 **ACGPN Cited:**
