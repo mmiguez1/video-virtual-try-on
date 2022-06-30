@@ -1,5 +1,6 @@
-# **Video Virtual Try-On Capstone **
+# **Video Virtual Try-On Capstone Project**
 ## Maygan Miguez (*TU '22*) and Jaclyn Wilson (*TU '22*)
+## Faculty Mentor: Dr. Allan Ding
 
 Video Virtual Try-On is our two-semester-long, senior year final capstone project. This project implements a virtual try-on solution that takes in a user's video input, runs the ACGPN model on the extracted video frames, and outputs a virtual try-on video that mimics a real-time virtual clothing try-on. 
 
@@ -28,5 +29,7 @@ Our approach takes in video input from the user and outputs a video of the user 
 Overall, our project had some unexpected turns throughout the year which enabled us to learn more about the virtual clothing try-on problem and the potential solutions that could be implemented to solve it. Given the time constraint of two semesters, we were able to research more about deep learning techniques and determine a realistic solution that we could implement to address the problem. However, a lot improvements we would like to make to the video virtual try-on would take a lot more time and research than we had this year. Therefore, if we had more time and resources there are a few improvements we would implement and continue to work on.
             
 Regarding the model, we would work on improving the run time and the model in general. Because it takes a substantial amount of time to run the model frame by frame, we would look into developing a parallel computing solution that could decrease the program’s runtime. Moreover, we would utilize 3-dimensional instead of 2-dimensional key points, so we could improve on the skin preservation component to recognize when body parts are not being displayed and deformed. We also would require a face detection implementation to help identify different angles given a 360-degree input. The model currently does not function well with hair in the way and various obstructions. 
+
+<img src='https://www.canva.com/design/DAE-ckLU8CQ/watch' title='try-on' width='' alt='Video Walkthrough' />
        
 ### View our Video Virtual Try-On solution [here]()!
