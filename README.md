@@ -20,7 +20,7 @@ Our approach to virtual try-on enables the user to virtually view the garment on
 The [ACGPN](https://arxiv.org/abs/2003.05863) has three primary modules, including a semantic generation module (SGM), clothes warping module (CWM), and a content fusion module (CFM). The SGM uses semantic segmentation of the reference image to create the desired semantic layout after try-on. Next, the CWM warps the clothing images according to the generated semantic layout, and a second-order difference constraint is used in the warping process during training. Third, the CFM integrates all of the information, including the reference image, semantic layout, and warped clothes, to produce each semantic part of the body. 
         
 ## The Dataset
-VITON Dataset This dataset is presented in VITON, containing 19,000 image pairs, each of which includes a front-view woman image and a top clothing image. After removing the invalid image pairs, it yields 16,253 pairs, further splitting into a training set of 14,221 paris and a testing set of 2,032 pairs.
+The ACGPN uses the [VITON Dataset](https://github.com/xthan/VITON). This dataset is presented in VITON, containing 19,000 image pairs, each of which includes a front-view woman image and a top clothing image. After removing the invalid image pairs, it yields 16,253 pairs, further splitting into a training set of 14,221 paris and a testing set of 2,032 pairs.
       
 ## Our Approach
 This virtual try-on problem can be broken down into two parts: 
